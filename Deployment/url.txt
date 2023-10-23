@@ -1,0 +1,1 @@
+https://huggingface.co/spaces/abisugiri/mechanical_parts_prediction
